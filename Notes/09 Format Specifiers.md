@@ -1,7 +1,7 @@
 # [Notes 9](https://codewithharry.com/videos/c-language-tutorials-in-hindi-9)
 
 
-### Format specifier in C
+## Format specifier in C
 The format specifier in C programming is used for input and output purposes. Through this, we tell the compiler what type of variable we are using for input using scanf() or printing using printf(). Some examples are %d, %c, %f, etc.
 
 The %c and %d used in the printf( ) are called format specifiers. Format specifier tells printf( ) to print the value, for %c, a character will printed, and for %d, a decimal will be printed. 
@@ -22,7 +22,7 @@ Format Specifier | Type
 
 >rounding up is done while using format specifiers
 
-(%6.4f)
+<!-- (%6.4f)
 - 4.0f ~ 4.0000
 - 7.333 ~ 7.3330  
 (%2.4f)
@@ -32,7 +32,7 @@ Format Specifier | Type
 - 3 ~ 3.00  
 (%4f)
 - 4 ~ (three spaces here) 4
-- 4.3432 ~ 4.343
+- 4.3432 ~ 4.343 -->
 
 ### Escape Sequence in C  
 
