@@ -1,7 +1,8 @@
 # [Notes 1](https://codewithharry.com/videos/c-language-tutorials-in-hindi-1)
+
 C is one of the fastest programming language as it is close to low-level languages such as Assembly language. If you are already familiar with programming, then you must know the demand out there for a C programmer. Because C comes in handy in case of all the applications that require fast processing, such as games, or major parts of different operating systems.
 
-### Benefits of C:
+## Benefits of C:
 C was developed in early 1970’s but it is still in much demand and it doesn’t seem it is going anywhere, there are a lot of reasons for that such as:
 
 - C takes only significant CPU time for interpretation. That is why a lot Python libraries such as NumPy, pandas, scikit-learn, etc. are built using C.  
@@ -9,7 +10,7 @@ C was developed in early 1970’s but it is still in much demand and it doesn’
 -  It is a highly portable language  
 - Data structure and algorithm can be better implemented in C language.
 - C is being used to support other programming languages to enhance their efficiency.  
-### Scope:
+## Scope:
 C has a wide range of scope  
 - Windows, Linux, Mac all are mostly written in C. Linux is written 97% using C.
 - C has also been used widely while creating iOS and Android kernels.
@@ -18,12 +19,12 @@ C has a wide range of scope
 - Most part of Apache and NGINX is written using C.
 - Embedded Systems are created using C
 
-### Control:
+## Control:
 C gives most of the control in the hand of users. Things like memory allocation and manipulation are totally in the hands of the programmer. Being a flexible language, it provides more access to the programmer because of which it is more efficient.
   
 ####  
   
 All of these reasons make C one of the widely used Programming language having special respect in the heart of programmers.
 
-### Summary:
+## Summary:
 C is not a hard language to learn and along with that it stills has a scope in the future. It is a low-level programming language that makes it more efficient and swifter. So many devices and applications are build completely or partially using C, so there is a wide range of options related to field you want to get into.
