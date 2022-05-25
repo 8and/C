@@ -42,10 +42,10 @@ An infinite loop also known as an endless loop occurs when a condition always ev
 
 Sometimes, while executing a loop, it becomes necessary to jump out of the loop. For this, we will use the break statement or continue statement.
 
-### break statement
+## break statement
 
 When a break statement is encountered inside a loop whether it is a for loop or a while loop, the loop is terminated and the program continues with the statement immediately following the loop.
 
-### continue statement
+## continue statement
 
 Using a continue statement in the loop will cause the control to go directly to the test-condition and then it will continue the loop process.
